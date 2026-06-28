@@ -530,7 +530,7 @@ These indexes improve query responsiveness when working with larger analytical d
 # 📂 Repository Structure
 
 ```text
-Amazon-Ecommerce-ETL-Pipeline/
+Amazon_Ecommerce/
 │
 ├── DATA /
 │   └── DATA/amazon_ecommerce_1M - Stable Space.zip
@@ -538,9 +538,7 @@ Amazon-Ecommerce-ETL-Pipeline/
 ├── SQL/
 │   └── amazon_analyst_script.sql
 │
-├── README.md
-│
-└── LICENSE
+README.md
 ```
 
 > **Note:**
@@ -637,9 +635,10 @@ The project demonstrates how SQL can be used not only for querying data but also
 
 # 👨‍💻 About the Author
 
-**Bogo**
+**Y Baskara**
 
-Accounting Professional | Audit | Data Analytics Enthusiast
+Auditor | Financial Data Analyst | Bridging Financial Data, Risk & Business Insights
+LinkedIn : https://www.linkedin.com/in/yugobaskara/
 
 I enjoy combining accounting, auditing, and data analytics to transform raw business data into meaningful insights. My current learning journey focuses on SQL, Business Intelligence, Data Analytics, and Data Engineering while continuously building practical portfolio projects based on real-world business scenarios.
 
