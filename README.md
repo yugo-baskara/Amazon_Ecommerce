@@ -59,6 +59,16 @@ This project addresses those challenges by building a complete SQL pipeline that
 
 ---
 
+## 📂 Dataset Setup & Installation
+
+Due to GitHub's file size limitations, the raw transactional dataset has been compressed into a ZIP file inside this repository. To run the ETL pipeline locally, please follow these steps:
+
+1. **Extract the Dataset:** Locate and extract `amazon_ecommerce_1M - Stable Space.zip` inside the `DATA/` folder.
+2. **Locate MySQL Uploads Folder:** Ensure the extracted `amazon_ecommerce.csv` file is placed in your MySQL secure uploads directory (e.g., `C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/`).
+3. **Execute the Script:** Open your preferred SQL IDE (MySQL Workbench, DBeaver, etc.) and run the `amazon_analyst_script.sql` located in the `SQL/` folder.
+
+---
+
 ## 📊 Dataset Description
 
 The dataset used in this project is an Amazon E-commerce transactional dataset publicly available on Kaggle and published by **Stable Space**.
@@ -522,8 +532,8 @@ These indexes improve query responsiveness when working with larger analytical d
 ```text
 Amazon-Ecommerce-ETL-Pipeline/
 │
-├── Dataset/
-│   └── amazon_ecommerce.csv
+├── DATA /
+│   └── DATA/amazon_ecommerce_1M - Stable Space.zip
 │
 ├── SQL/
 │   └── amazon_analyst_script.sql
