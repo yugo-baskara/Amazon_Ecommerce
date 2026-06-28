@@ -538,7 +538,7 @@ Amazon_Ecommerce/
 ├── SQL/
 │   └── amazon_analyst_script.sql
 │
-README.md
+└── README.md
 ```
 
 > **Note:**
