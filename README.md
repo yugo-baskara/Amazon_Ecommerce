@@ -645,13 +645,10 @@ Feedback, suggestions, and constructive discussions are always welcome.
 
 ---
 
-# 📄 License
+# 📄 License & Data Attribution
 
-This project is released under the **MIT License**.
-
-You are free to use, modify, and distribute this project for educational and learning purposes.
-
-Please provide appropriate attribution if substantial portions of the work are reused.
+The underlying commercial data file is sourced openly from the Kaggle by Stable Space.
+All custom data tier designs, automated data quality tracking logic, indexing schemes, and advanced metrics queries have been designed and coded independently by the author for professional portfolio and data verification evaluation.
 
 ---
 
