@@ -498,13 +498,3 @@ DO
 	CALL portofolio.sp_refresh_ecommerce_pipeline()
 ;
 
-
--- ====== --
--- EXTRAS --
--- ====== --
-
-SELECT
-	*
-FROM
-	portofolio.ecommerce_amazon_clean
-;
